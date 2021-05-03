@@ -41,3 +41,16 @@
 <i> <b> FUCK THE SYSTEM </b> </i>
 </p>
 
+
+## CONNECT WITH US :
+
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://bit.ly/3edK8Ht)
+<a href="https://github.com/AliNiazOfficial"><img title="Github" src="https://img.shields.io/badge/AliNiazOfficial-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://bit.ly/3nQ3HsM)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://bit.ly/3xGuf4b)
+[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://bit.ly/3efB30I)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://bit.ly/3eNI7kl)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://wa.me/923018853569)
+<a href="https://YouTube.com/AliGraphicDesignYT"><img title="YouTube" src="https://img.shields.io/badge/YouTube-AliNiazOfficial-red?style=for-the-badge&logo=Youtube"></a>
+
